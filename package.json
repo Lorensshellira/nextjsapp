@@ -22,6 +22,7 @@
     "xss": "^1.0.15"
   },
   "devDependencies": {
+    "@flydotio/dockerfile": "^0.5.8",
     "@netlify/plugin-nextjs": "^5.5.1",
     "eslint": "^8",
     "eslint-config-next": "14.0.3"
